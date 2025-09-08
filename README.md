@@ -3,13 +3,6 @@
 A clean and minimal **Random Image Feed** built using **HTML**, **CSS**, and **JavaScript**.  
 Fetches and displays random images with a sleek user experience. Perfect for visual refreshment! 🌈✨
 
----
-
-## 🎥 Demo
-
-<p align="center">
-  <img src="demo.gif" alt="Demo of RandomImageFeed" width="500"/>
-</p>
 
 ---
 
